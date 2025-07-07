@@ -23,6 +23,7 @@ Translate summaries into multiple languages using pretrained MarianMT models.
 **Keyword & Action Item Detection** 
 Automatically extract action points to streamline task assignment and recap emails.
 
+
 **Tech Stack**
 Python 3.10+
 
