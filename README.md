@@ -18,7 +18,7 @@ Converts summaries into audio using gTTS, enabling auditory consumption of meeti
 **Sentiment Analysis**
 
  **Multilingual Support**
-Translate summaries into multiple languages using pretrained MarianMT models.
+Translate summaries into multiple languages.
 
 **Keyword & Action Item Detection** 
 Automatically extract action points to streamline task assignment and recap emails.
