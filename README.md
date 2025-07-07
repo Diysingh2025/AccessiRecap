@@ -27,7 +27,7 @@ Automatically extract action points to streamline task assignment and recap emai
 **Tech Stack**
 Python 3.10+
 
-Hugging Face Transformers – question detection
+Hugging Face Transformers – question detection (in Progress)
 
 gTTS – for converting text to audio
 
