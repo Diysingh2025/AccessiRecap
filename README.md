@@ -18,7 +18,11 @@ Automatically extract action points to streamline task assignment and recap emai
 
 **Tech Stack**
 Python 3.10+
+
 Hugging Face Transformers – question detection
+
 gTTS – for converting text to audio
+
 ReportLab – for PDF generation
+
 Streamlit – for UI implementation(later)
